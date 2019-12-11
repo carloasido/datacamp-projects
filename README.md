@@ -7,7 +7,7 @@ A collection of projects that I completed on [Datacamp](https://www.datacamp.com
 * [Introduction to DataCamp Projects](https://www.datacamp.com/projects/33) 
 
 
-`An introduction to DataCamp's project interface and working with jupyter notebooks using a  general-purpose programming language, Python.`
+`An introduction to DataCamp's project interface and working with jupyter notebooks using Python.`
 
 * [Exploring 67 years of LEGO](https://www.datacamp.com/projects/10)
 
@@ -25,7 +25,7 @@ A collection of projects that I completed on [Datacamp](https://www.datacamp.com
 ### R
 * [Introduction to DataCamp Projects](https://www.datacamp.com/projects/41) 
 
-`An introduction to DataCamp's project interface and working with jupyter notebooks using statistical programming language, R.`
+`An introduction to DataCamp's project interface and working with jupyter notebooks using R.`
 * [Wrangling and Visualizing Musical Data](https://www.datacamp.com/projects/78)
 
 `Wrangle and visualize musical data to find common chords and compare the styles of different artists.`
@@ -42,7 +42,7 @@ A collection of projects that I completed on [Datacamp](https://www.datacamp.com
 ### SQL
 * [Introduction to DataCamp Projects](https://www.datacamp.com/projects/571) 
 
-`An introduction to DataCamp's project interface and working with jupyter notebooks using database query language, SQL.` 
+`An introduction to DataCamp's project interface and working with jupyter notebooks using SQL.` 
 * [Analyze International Debt Statistics](https://www.datacamp.com/projects/754)
 
 `Write SQL queries to answer interesting questions about international debt using data from The World Bank.` 
