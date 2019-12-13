@@ -4,7 +4,7 @@ A collection of projects that I completed on [Datacamp](https://www.datacamp.com
 
 ## Projects Overview
 ### Python
-* [Introduction to DataCamp Project](https://www.datacamp.com/projects/33 target="_blank")
+* [Introduction to DataCamp Project](https://www.datacamp.com/projects/33)
 
 `An introduction to DataCamp's project interface and working with jupyter notebooks using Python.`
 
