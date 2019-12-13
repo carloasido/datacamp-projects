@@ -4,8 +4,7 @@ A collection of projects that I completed on [Datacamp](https://www.datacamp.com
 
 ## Projects Overview
 ### Python
-<a href="https://www.datacamp.com/projects/33" target="_blank"> Introduction to DataCamp Projects</a>
-<p>Open link in a new window or tab: <a href="https://www.w3schools.com" target="_blank">Visit W3Schools!</a></p>
+* [Introduction to DataCamp Project](https://www.datacamp.com/projects/33){:target="_blank"}
 
 `An introduction to DataCamp's project interface and working with jupyter notebooks using Python.`
 
