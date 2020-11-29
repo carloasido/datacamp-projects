@@ -1,4 +1,4 @@
-# Datacamp Projects
+# Datacamp-projects
 
 A collection of projects that I completed on [Datacamp](https://www.datacamp.com) so far on my data science journey. 
 
